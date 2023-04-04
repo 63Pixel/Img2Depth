@@ -1,0 +1,7 @@
+# To install use: "pip3 install -r requirements.txt"
+
+tensorflow==2.6.0
+keras==2.6.0
+opencv-python==4.5.3.56
+numpy==1.19.5
+tqdm==4.62.3
